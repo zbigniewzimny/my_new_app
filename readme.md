@@ -1,1 +1,1 @@
-ECHO is on.
+# Welcome to kolokwium app
